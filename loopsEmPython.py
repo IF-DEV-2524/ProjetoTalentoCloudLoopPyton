@@ -27,7 +27,7 @@ for i in range(qtAndares):
 
 
 # loops com While
-
+print("======================================== Executando loop com while")
 #Realizando de forma crescrente loop com while
 
 contador = 0;
